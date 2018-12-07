@@ -1,2 +1,1 @@
-# mechkeyboard-resources
-mechkeyboard-resources
+# Resources for a from-scratch mech keyboard
