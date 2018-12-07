@@ -27,3 +27,14 @@ https://es.aliexpress.com/store/product/Cool-Jazz-Blank-108-keys-ANSI-ISO-layout
 
 ### case
 Many options. May be cheapest to laser-cut switch board, 3D print rest, or make a sandwich type.
+
+### controller board
+Many options, too. 
+- Arduino works fine
+- Teensy boards are very common on these projects
+- We can program our own microcontroller:
+PIC dev board: https://es.aliexpress.com/store/product/PIC16F877A-PIC-Minimum-System-Development-Board-JTAG-ICSP-Program-Emulator-Good/1414081_2038558813.html
+STM32 are super common, too: https://es.aliexpress.com/store/product/Free-Shipping-STM32F103C8T6-ARM-STM32-Minimum-System-Development-Board-Module-Forarduino/1962508_32525208361.html
+
+### extras
+One of these would be super cool: https://es.aliexpress.com/store/product/1-54-Inch-E-Paper-Module-E-Ink-Electronic-Display-Screen-Black-White-Color-SPI/4244001_32878288313.html (e-ink display)
